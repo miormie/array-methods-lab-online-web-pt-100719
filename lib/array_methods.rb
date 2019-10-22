@@ -1,5 +1,5 @@
 def using_include(array, element)
-
+array.clude?(element)
 end
 
 def using_sort(array)
